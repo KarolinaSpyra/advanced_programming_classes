@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 30 11:31:51 2021
 
-@author: Wiewiorka
-"""
 name = []
 liczby = []
 ten = []
